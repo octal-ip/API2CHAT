@@ -77,3 +77,8 @@ Want to host your own secure, live instance for free?
 Created by **Dr. Manuel Herrador** ([mherrador@ujaen.es](mailto:mherrador@ujaen.es)) - University of Jaen (Spain)
 
 Released under the **[Apache 2.0 License](https://github.com/PacifAIst/API2CHAT/blob/main/LICENSE)**. You are free to modify, distribute, and use this software privately or commercially. The author takes no liability for any damages or data lost.
+
+---
+
+<p align="center">Made with ❤️ for the Local AI Community by PacifAIst</p>
+
