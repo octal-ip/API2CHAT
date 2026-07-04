@@ -28,7 +28,7 @@
 
 ## 🚀 Key Features
 
-* **🛡️ 100% Zero-Knowledge Security:** No data or chat logs are ever transmitted to or stored by this app as it runs entirely in your browser's volatile memory. Refreshing or flushing the session destroys the keys locally.
+* **🛡️ 100% Zero-Knowledge Security:** No prompts, context files or chat logs are ever transmitted to the server hosting this app as it runs entirely in your local browser's volatile memory.
 * **🔌 Maximum Compatibility:** Natively supports OpenAI, Google (Gemini via OpenAI Shim), DeepSeek, and OpenRouter. Features a "Custom" mode to connect to any local (e.g., LM Studio, llama.cpp) or remote provider using the OpenAI standard API.
 * **📎 Local File Context:**  Files are read locally by your browser and injected into the LLM prompt without requiring an upload server. Even when you can attach a file to it (e.g., a PDF) it is not stored anywhere.
 * **💻 Host Anywhere:** Because there is no PHP, Python, or Node.js required, you can host API2CHAT on GitHub Pages, S3 buckets, cheap shared hosting (e.g., Namecheap), or simply double-click `index.html` on your desktop (Windows, Linux, iOS, Android, rpi-related...).
