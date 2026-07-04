@@ -1,0 +1,36 @@
+{
+  "providers": [
+    {
+      "id": "openai",
+      "name": "OpenAI",
+      "url": "https://api.openai.com/v1",
+      "apiKey": "",
+      "systemPrompt": "You are a helpful assistant.",
+      "isCustom": false
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "url": "https://api.deepseek.com",
+      "apiKey": "",
+      "systemPrompt": "You are a helpful assistant.",
+      "isCustom": false
+    },
+    {
+      "id": "openrouter",
+      "name": "OpenRouter",
+      "url": "https://openrouter.ai/api/v1",
+      "apiKey": "",
+      "systemPrompt": "",
+      "isCustom": false
+    },
+    {
+      "id": "custom",
+      "name": "Custom",
+      "url": "",
+      "apiKey": "",
+      "systemPrompt": "",
+      "isCustom": true
+    }
+  ]
+}
