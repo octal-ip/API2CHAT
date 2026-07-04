@@ -77,10 +77,11 @@ Want to host your own secure, live instance for free?
 ## 👨‍💻 Author & License
 
 Created by **Dr. Manuel Herrador** ([mherrador@ujaen.es](mailto:mherrador@ujaen.es)) - University of Jaen (Spain)
+Enhanced by Octal-IP.
 
 Released under the **[Apache 2.0 License](https://github.com/PacifAIst/API2CHAT/blob/main/LICENSE)**. You are free to modify, distribute, and use this software privately or commercially. The author takes no liability for any damages or data lost.
 
 ---
 
-<p align="center">Made with ❤️ for the Local AI Community by PacifAIst</p>
+<p align="center">Made with ❤️ for the Local AI Community by PacifAIst and Octal-IP</p>
 
